@@ -21,11 +21,11 @@ I'm not working on any specific program at the moment, i'm just doing whatever t
 Contact me at Akkuya#0002 on discord, or at akkuyastorage@gmail.com
 
 
-##Other Stuff
+## Other Stuff
 
 I watch anime sometimes, you can see my watchlist at https://anilist.co/user/akkuya
 
-###What i'm listening to
+### What i'm listening to
 
 ![It didn't load :(](https://vps5.minzkraut.com/spotify/embed.png?key=orangemariodog)
 <!--
