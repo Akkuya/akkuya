@@ -1,5 +1,33 @@
-### Hi there 👋
+## Heyo!
 
+
+### I'm Akkuya, a learning developer situated in Canada.
+
+
+## Languages I'm learning
+
+ - C#
+ - Javascript
+ - C
+
+## Languages I will learn
+
+  - C
+  - Java
+
+
+I'm not working on any specific program at the moment, i'm just doing whatever the heck I want
+
+Contact me at Akkuya#0002 on discord, or at akkuyastorage@gmail.com
+
+
+##Other Stuff
+
+I watch anime sometimes, you can see my watchlist at https://anilist.co/user/akkuya
+
+###What i'm listening to
+
+img(https://vps5.minzkraut.com/spotify/embed.png?key=orangemariodog)
 <!--
 **Akkuya/akkuya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
