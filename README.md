@@ -27,7 +27,7 @@ I watch anime sometimes, you can see my watchlist at https://anilist.co/user/akk
 
 ###What i'm listening to
 
-img(https://vps5.minzkraut.com/spotify/embed.png?key=orangemariodog)
+![It didn't load :(](https://vps5.minzkraut.com/spotify/embed.png?key=orangemariodog)
 <!--
 **Akkuya/akkuya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
