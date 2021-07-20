@@ -8,7 +8,6 @@
 
  - C#
  - Javascript
- - C
 
 ## Languages I will learn
 
