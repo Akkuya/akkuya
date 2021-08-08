@@ -28,7 +28,7 @@ I watch anime sometimes, you can see my watchlist at https://anilist.co/user/akk
 
 ![It didn't load :(](https://vps5.minzkraut.com/spotify/embed.png?key=orangemariodog&header=center&font=Raleway&headerFont=Comfortaa&color=b39eb5&border=ffffff)
 
-[![Akkuya's GitHub stats](https://github-readme-stats.vercel.app/api?username=akkuya)](https://github.com/anuraghazra/github-readme-stats)
+[![Akkuya's GitHub stats](https://github-readme-stats.vercel.app/api?username=akkuya&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 
