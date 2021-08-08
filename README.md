@@ -27,7 +27,11 @@ I watch anime sometimes, you can see my watchlist at https://anilist.co/user/akk
 ### What i'm listening to
 
 ![It didn't load :(](https://vps5.minzkraut.com/spotify/embed.png?key=orangemariodog&header=center&font=Raleway&headerFont=Comfortaa&color=b39eb5&border=ffffff)
+
+[![Akkuya's GitHub stats](https://github-readme-stats.vercel.app/api?username=akkuya)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
+
 **Akkuya/akkuya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
