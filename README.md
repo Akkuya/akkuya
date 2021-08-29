@@ -1,23 +1,15 @@
-## Heyo!
 
+<h2 align=center> Hi, I'm Akkuya, a student studying computer science situated in Canada. </h2>
 
-### I'm Akkuya, a learning developer situated in Canada.
+ <br><br>
 
+###I have experience in HTML, CSS, Python, and a little bit of Java.
+ 
+###I am learning Java and Javascript.
 
-## Languages I'm learning
+ 
 
- - C#
- - Javascript
-
-## Languages I will learn
-
-  - C
-  - Java
-
-
-I'm not working on any specific program at the moment, i'm just doing whatever the heck I want
-
-Contact me at Akkuya#0002 on discord, or at akkuyastorage@gmail.com
+Contact me at [Discord](https://discordid.netlify.app/?id=737377683687735347), or at [akkuyastorage@gmail.com](mailto://akkuyastorage@gmail.com)
 
 
 ## Other Stuff
@@ -28,7 +20,7 @@ I watch anime sometimes, you can see my watchlist at https://anilist.co/user/akk
 
 ![It didn't load :(](https://vps5.minzkraut.com/spotify/embed.png?key=orangemariodog&header=center&font=Raleway&headerFont=Comfortaa&color=b39eb5&border=ffffff)
 
-[![Akkuya's GitHub stats](https://github-readme-stats.vercel.app/api?username=akkuya&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+[![Akkuya's GitHub stats](https://github-readme-stats.vercel.app/api?username=akkuya&theme=material-palenight)]
 
 <!--
 
