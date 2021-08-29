@@ -3,9 +3,9 @@
 
  <br><br>
 
-###I have experience in HTML, CSS, Python, and a little bit of Java.
+### I have experience in HTML, CSS, Python, and a little bit of Java.
  
-###I am learning Java and Javascript.
+### I am learning Java and Javascript.
 
  
 
