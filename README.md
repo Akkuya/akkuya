@@ -9,7 +9,7 @@
 
  
 
-Contact me at [Discord](https://discordid.netlify.app/?id=737377683687735347), or at [akkuyastorage@gmail.com](mailto://akkuyastorage@gmail.com)
+Contact me at [Discord](https://discord.com/users/737377683687735347), or at [akkuyastorage@gmail.com](mailto://akkuyastorage@gmail.com)
 
 
 ## Other Stuff
@@ -20,7 +20,7 @@ I watch anime sometimes, you can see my watchlist at https://anilist.co/user/akk
 
 ![It didn't load :(](https://vps5.minzkraut.com/spotify/embed.png?key=orangemariodog&header=center&font=Raleway&headerFont=Comfortaa&color=b39eb5&border=ffffff&oversOnly=false)
 
-[![Akkuya's GitHub stats](https://github-readme-stats.vercel.app/api?username=akkuya&theme=material-palenight)]
+![Akkuya's GitHub stats](https://github-readme-stats.vercel.app/api?username=akkuya&theme=material-palenight)
 
 <!--
 
