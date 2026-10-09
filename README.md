@@ -19,7 +19,7 @@ I like building things, understanding how they work, and occasionally overengine
 
 - **[FinTrack](https://github.com/Akkuya/finTrack)** — Local-first personal finance app with transaction categorization powered by rules and local LLMs.
 - **Multiplayer Battleship Server** — Event-driven TCP server in C supporting 64 concurrent players using non-blocking sockets.
-- **Session Timer Overlay** — Windows desktop utility deployed at Aerosports Parks, used by 10+ staff to coordinate simulator sessions.
+- **Multisports Timer** — Windows desktop utility deployed at Aerosports Parks, used by 10+ staff to coordinate simulator sessions.
 
 ### currently
 
