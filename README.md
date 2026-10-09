@@ -1,6 +1,6 @@
 # hey, i'm rishi
 
-Second-year Computer Science student at the **University of Toronto Scarborough**, minoring in Statistics.
+Second-year Computer Science student at the **University of Toronto**, minoring in Statistics.
 
 I like building things, understanding how they work, and occasionally overengineering them. Interested in software engineering, systems, AI/ML, and quantitative development.
 
