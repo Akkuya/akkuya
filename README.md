@@ -23,6 +23,7 @@ I like building things, understanding how they work, and occasionally overengine
 
 ### currently
 
+- Working on utscVacant, an easy way to see available lecture halls to study.
 - Strengthening my foundations in algorithms, statistics, and systems programming.
 - Exploring machine learning and its applications in software.
 - Building projects and preparing for my Summer 2027 co-op.
