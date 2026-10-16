@@ -30,4 +30,4 @@ I like building things, understanding how they work, and occasionally overengine
 
 ### elsewhere
 
-[LinkedIn](https://www.linkedin.com/in/YOUR_PROFILE) · [Portfolio](https://YOUR_PORTFOLIO_URL)
+[LinkedIn](https://www.linkedin.com/in/satyajit-datta) · [Portfolio](https://rishis.dev)
